@@ -6,6 +6,7 @@ int _sqrt_recursion(int n)
 }
 
 /**
+ * _sqrt_recursion - get the square root
  * _sqrt - the natural square root of a number
  * @n: the number
  * @i: iterate number
