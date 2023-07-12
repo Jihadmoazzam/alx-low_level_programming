@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
 				}
 			}
 
-			sum+= atoi(c);
+			sum += atoi(c);
 			c++;
 		}
 
